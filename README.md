@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hereisalex
-- 👀 I’m interested in learning how to create awesome computer stuff to share with the world
+- 👀 I’m interested in learning how to create cool code to solve problems and do neat stuff.
 - 🌱 I’m currently learning mobile app development, machine learning, Bootstrap, NoSQL databases, java server development, and DevOps
 - 📫 How to reach me: here.is.alex@gmail.com
 
