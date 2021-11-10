@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hereisalex
 - 👀 I'm here to learn how to code so I can help solve problems, answer questions and do other neat computer stuff.
-- 🌱 I’m currently learning mobile app development, machine learning, Bootstrap, NoSQL databases, java server development, and DevOps
+- 🌱 I’m currently learning mobile app development, React, TypeScript, Ionic and more about Amazon Web Services.
 - 📫 How to reach me: here.is.alex@gmail.com
 
 <!---
