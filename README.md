@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hereisalex
-- 👀 I'm here to learn how to code so I can help solve problems, answer questions and do other neat computer stuff.
-- 🌱 I’m currently learning mobile app development, React, TypeScript, Ionic and more about Amazon Web Services.
-- 📫 How to reach me: here.is.alex@gmail.com
-
+- 👋 Hi, I’m Alex, a full-stack developer.
+- 👨🏻‍💻 C#, .NET and Blazor are what I use daily at work
+- 👾 React, TypeScript and Next.js are what I use on the side
+  
 <!---
 hereisalex/hereisalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
